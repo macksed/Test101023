@@ -39,3 +39,8 @@ median(EnoughTurnouts$forpercent)
 
 plot(EnoughTurnouts$forpercent,EnoughTurnouts$Amount,main='Percent Margin Approved by and Cost',xlab='Percent Margin Approved',ylab='Cost',pch=20)
 cor(EnoughTurnouts$forpercent,EnoughTurnouts$Amount) #This calculates our correlation statistic
+
+
+print(":)")
+
+
